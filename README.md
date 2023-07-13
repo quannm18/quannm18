@@ -40,9 +40,9 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
  <img src="https://img.shields.io/badge/-Kotlin-white?style=flat-square&logo=kotlin"/>
-<img src="https://img.shields.io/badge/-Dart-white?style=flat-square&logo=dart"/>
+<img src="https://img.shields.io/badge/-Dart-black?style=flat-square&logo=dart"/>
 <img src="https://img.shields.io/badge/-Android-white?style=flat-square&logo=android"/>
-<img src="https://img.shields.io/badge/-Flutter-white?style=flat-square&logo=flutter"/>
+<img src="https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter"/>
 <img src="https://img.shields.io/badge/-JetpackCompose-white?style=flat-square&logo=jetpackcompose"/>
 <img src="https://img.shields.io/badge/Jetpack-white?style=flat-square&logo=Jetpack"/>
 <img src="https://img.shields.io/badge/-ReactNative-white?style=flat-square&logo=reactnative"/>
