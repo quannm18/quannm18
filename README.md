@@ -46,11 +46,12 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
 <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
-<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=reactnative"/>
 <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
 <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
 <img src="https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin"/>
 <img src="https://img.shields.io/badge/-Dart-black?style=flat-square&logo=dart"/>
+<img src="https://img.shields.io/badge/-Android-black?style=flat-square&logo=android"/>
 <img src="https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter"/>
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
