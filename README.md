@@ -39,6 +39,13 @@ Here are some ideas to get you started:
 <p align="center">
  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
+ <img src="https://img.shields.io/badge/-Kotlin-white?style=flat-square&logo=kotlin"/>
+<img src="https://img.shields.io/badge/-Dart-white?style=flat-square&logo=dart"/>
+<img src="https://img.shields.io/badge/-Android-white?style=flat-square&logo=android"/>
+<img src="https://img.shields.io/badge/-Flutter-white?style=flat-square&logo=flutter"/>
+<img src="https://img.shields.io/badge/-JetpackCompose-white?style=flat-square&logo=jetpackcompose"/>
+<img src="https://img.shields.io/badge/Jetpack-white?style=flat-square&logo=Jetpack"/>
+<img src="https://img.shields.io/badge/-ReactNative-white?style=flat-square&logo=reactnative"/>
 <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
@@ -46,13 +53,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
 <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
-<img src="https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=reactnative"/>
 <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
 <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
-<img src="https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin"/>
-<img src="https://img.shields.io/badge/-Dart-black?style=flat-square&logo=dart"/>
-<img src="https://img.shields.io/badge/-Android-black?style=flat-square&logo=android"/>
-<img src="https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter"/>
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
