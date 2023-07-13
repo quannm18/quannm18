@@ -49,6 +49,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
 <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
 <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
+<img src="https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin"/>
+<img src="https://img.shields.io/badge/-Dart-black?style=flat-square&logo=dart"/>
+<img src="https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter"/>
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
@@ -90,11 +93,6 @@ Here are some ideas to get you started:
 <p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=quannm18&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
-
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=quannm18&theme=redical">
-</p> 
 <hr>
 <p align="center">If you like it, do fork 🍴 and star ⭐</p>
 
--->
